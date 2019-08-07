@@ -47,6 +47,10 @@ gem 'solidus_i18n', '~> 2.0'
 gem 'rails-i18n', '~> 5.1'
 gem 'kaminari-i18n', '~> 0.5.0'
 
+gem 'carrierwave'
+gem 'fog'
+gem 'mini_magick'
+gem 'figaro'
 
 group :development do
   # Access an interactive console on exception pages or by calling 'console' anywhere in the code.
